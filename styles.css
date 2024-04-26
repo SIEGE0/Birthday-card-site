@@ -1,14 +1,8 @@
-/* .happy-monkey-regular {
-    font-family: "Happy Monkey", system-ui;
-    font-weight: 400;
-    font-style: normal;
-  } */
-
-  body {
-    text-align: center;
-    font-family: Happy Monkey;
-    color: white;
-    background: linear-gradient(#a2d2ff, #EFB0C9);
+body {
+  text-align: center;
+  font-family: Happy Monkey;
+  color: white;
+  background: linear-gradient(#a2d2ff, #EFB0C9);
   }
 
 #pfp {
